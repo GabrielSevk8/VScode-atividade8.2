@@ -1,0 +1,31 @@
+body{
+    margin: 0;
+}
+h1{
+    justify-content: center;
+    display: flex
+}
+.box1{
+    margin: 20px;
+    justify-content: center;
+    display: flex;
+}
+
+.box2{
+    margin: 20px;
+    justify-content: center;
+    display: flex;
+}
+
+.img1{
+    background-color: crimson;
+    margin: 10px ;
+    padding: 10px 10px 10px;
+    justify-content: center;
+}
+.img2{
+    background-color: crimson;
+    margin: 10px ;
+    padding: 10px 10px 10px;
+    justify-content: center;
+}
